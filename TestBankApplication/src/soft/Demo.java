@@ -7,6 +7,7 @@ public class Demo {
 		
 		System.out.println("Welcome to SBI Bank");
 		System.out.println("Welcome to github");
+		System.out.println("Welcome to git");
 
 	}
 
